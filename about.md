@@ -6,6 +6,9 @@ permalink: /about/
 
 A master student in the Department of Statistics
 
+![North Carolina State University](/images/mypack_portal-2.jpg)
+
+
 ### More Information
 
 This site is for ST 558.
