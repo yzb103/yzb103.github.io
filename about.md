@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+A master student in the Department of Statistics
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+This site is for ST 558.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[yubai12@gmail.com](mailto:yubai12@gmail.com)
