@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-A master student in the Department of Statistics
+A master student in the Department of Statistics.
 
 ![North Carolina State University](/images/mypack_portal-2.jpg)
 
