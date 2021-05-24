@@ -1,10 +1,18 @@
 ---
 layout: post
-title: You're up and running!
+title: Assignment 1
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+What do you think being a data scientist is about?  What do you see as the major duties and/or knowledge areas?  What differences/similarities do you see between data scientists and statisticians?  How do you view yourself in relation to these two areas?
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+What do you think being a data scientist is about?  
+A: A data scientist collects data from multiple sources and uses skills of machine learning, predictive analytics, and sentiment analysis to find important information from the data source. 
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+What do you see as the major duties and/or knowledge areas?
+A: Their major duties are to explain the data from a business view and then to support important business decision by providing accurate predictions. A data scientist should have skills in at least 3 areas: analysis, programing, and domain knowledge.  
+
+What differences/similarities do you see between data scientists and statisticians?  
+A: A statistician need to understand the modeling and data structure. However, a data scientist should understand applied statistics. A data scientist formulates a modeling process based on the predictive accuracy of the model. A statistician takes a different way to establishing and testing their models. The similarities between the two roles are a strong background of analysis and programming.
+
+How do you view yourself in relation to these two areas?
+A: My role in daily work is the mixed one of a data scientist and a statistician. My projects are involved social science field and healthcare field. The goals for those projects are to help policymakers make policy decisions. Our policy evaluation can tell the public what happened, what is happening, and what will happen. But we rarely use machine learning method in our analysis plan.  
