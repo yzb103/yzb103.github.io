@@ -1,0 +1,15 @@
+About Project 1
+There are two goals of Project 1. The first one is to create a vignette, where readers can use my R syntax and functions to read data from NHL website. The second goal is to conduct some exploratory data analysis by using the data read from the website.  
+What I did
+Here is my project 1 (https://github.com/yzb103/ST558_Project1). I create two functions to read the NHL data. One is about connecting NHL record API. Users can apply my code to find the NHL team information such as name, location, first year, players, goalie, skater, season records, admin group, and etc.  The second one is about connecting NHL stat API. Users can apply my code to find the NHL team information such as ranking in loss and win, points, and etc.
+As project requests, some users will use Franchise ID to search the information, while others will use team name to search. Thus, I create a cross-walk data, which has only 2 variables in the data: franchise ID and team name. By using the cross-walk data, I can present the information even if the users search the information by team name.
+To achieve the second goal of the project, I firstly create a new data by combining two data sets together by a common ID. One source data includes team names, conference, and division, while the other source data includes all stats. Both data share a common ID, franchiseId. 
+Next, I create some new variables. The new variables I am interested in are the win rate at home and on road. Then, I examine the descriptive estimation of the new variables overall, by conference, and by division. Finally, I estimate the relationship between the win rate at home and win rates on road. I do it in three way, overall, by conference, and by division. 
+Some of my findings are attractive. For example, I find a positive relationship between home-win rate and road-win rate in NHL. It means strong teams are always strong, no matters they are at home or on road. When I conduct the analysis by conference, the finding is held for Western Conference but not for Eastern Conference. Similar findings can be also seen when I conduct the analysis in division.    
+
+Reflections
+The most difficult part is to find correct information I need from a list created by fromJSON. For example, I tried to read stat information by using stats API. But the stats information was under the layer of “stats”, then in the list of “splits”, and finally, is the first and second elements of the list. 
+  temp<-fromJSON(jsonRespText,flatten=TRUE)
+  p1 <- temp$stats$splits[[1]]
+  p2 <- temp$stats$splits[[2]]
+So, in the future, after I get a list from fromJSON, I need to open the list and check each layer to see if my variables are there before I write down some codes. 
