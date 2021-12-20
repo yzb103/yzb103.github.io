@@ -85,5 +85,3 @@ exclude:
   - README.md
   - CNAME
 
-# Theme
-theme: minima
