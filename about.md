@@ -4,14 +4,14 @@ title: About
 permalink: /about/
 ---
 
-A master student in the Department of Statistics.
+Statistician
 
 ![North Carolina State University](/images/mypack_portal-2.jpg)
 
 
 ### More Information
 
-This site is for ST 558.
+Data is amazing.
 
 ### Contact me
 
