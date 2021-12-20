@@ -1,3 +1,9 @@
+---
+layout: post
+title: 
+published: false
+---
+
 Everyone in this course had some programming experience coming in (due to the prerequisites).  What are your thoughts on R vs whatever other software you've used?
 
 A: I have used SAS, SPSS, Stata, Mplus, and R. All those software are statistics tools. I use SAS for data management, use Stata to do general data analysis, and use MPlus to conduct multilevel analysis and SEM analysis. I know R for a long time but rarely used it until I was enrolled the program last year.
