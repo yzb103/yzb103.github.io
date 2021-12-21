@@ -1,0 +1,11 @@
+---
+  layout: post
+  title: VAERS
+  published: TRUE
+---
+    
+    VAERS data is accessible by downloading raw data in comma-separated value (CSV) files for import into a database, spreadsheet, or text editing program, or by using the CDC WONDER online search tool. Information provided to VAERS which identifies a person who received the vaccine or vaccines will not be made available to the public. De-identified VAERS data are available 4-6 weeks after the report is received. 
+  
+    You can find [website](https://vaers.hhs.gov/data.html)
+    
+    Here is the [report](_posts/VAERS.html)
