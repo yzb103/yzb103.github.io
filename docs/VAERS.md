@@ -142,4 +142,6 @@ Here are the tables of demographic characteristics.
 | 2021-11 |  117 |
 | 2021-12 |   10 |
 
+Let’s look at a barplot for VAX type by gender.
+
 ![](VAERS_files/figure-gfm/unnamed-chunk-5-1.png)<!-- -->
