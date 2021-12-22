@@ -1,7 +1,6 @@
 ---
-  title: "VAERS"
-  output: github_document
-  #output: html_document
+title: "VAERS"
+output: html_document
 ---
 
 ```{r setup, echo = FALSE, include= TRUE,message=FALSE}
