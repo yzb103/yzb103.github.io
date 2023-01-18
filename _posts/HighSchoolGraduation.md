@@ -10,4 +10,4 @@ policymakers.
 
 # Report
 
-You can see my report at XX
+You can see my [report](/_pages/P12_HS_graduation_01.html))
